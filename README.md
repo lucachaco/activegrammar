@@ -1,2 +1,2 @@
 # activegrammar
-Good theme: http://blog.micahcowell.com/
+Good theme: http://liabogoev.com/-folio/poetry/

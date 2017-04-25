@@ -11,12 +11,12 @@
 
 # Konjugation Präsens I
 
-|               | Singular       | Plural         |
-| ------------- |:--------------:| :-------------:|
-| 1. Person     | ich geh-**e**  | wir geh-**en** |
-| 2. Person     | du             | ihr   |
-|               | Sie            | Sie   |
-| 3. Person     | er (maskulin)  | sie   |
-|               | sie (feminin)  | sie   |
-|               | es (neutrum)   | sie   |
+|               | Singular       | Plural             |
+| ------------- |:--------------:| :-----------------:|
+| 1. Person     | ich geh-**e**  | wir geh-**en**     |
+| 2. Person     | du geh-**st**  | ihr ihr geh-**t**  |
+|               | Sie geh-**en** | Sie Sie geh-**en** |
+| 3. Person     | er geh-**t**   | sie sie geh-**en** |
+|               | sie geh-**t**  | sie                |
+|               | es geh-**t**   | sie                |
 

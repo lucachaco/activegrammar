@@ -3,7 +3,7 @@
 |               | Singula       | Plural|
 | ------------- |:-------------:| -----:|
 | 1. Person     | du            | ihr   |
-|               | Sie           | Sie   |
+| 2. Person     | Sie           | Sie   |
 | 2. Person     | centered      |   $12 |
 | 3. Person     | are neat      |    $1 |
 

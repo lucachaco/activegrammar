@@ -17,6 +17,6 @@
 | 2. Person     | du geh-**st**  | ihr ihr geh-**t**  |
 |               | Sie geh-**en** | Sie Sie geh-**en** |
 | 3. Person     | er geh-**t**   | sie sie geh-**en** |
-|               | sie geh-**t**  | sie                |
-|               | es geh-**t**   | sie                |
+|               | sie geh-**t**  |                    |
+|               | es geh-**t**   |                    |
 

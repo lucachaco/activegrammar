@@ -2,10 +2,11 @@
 
 |               | Singula       | Plural|
 | ------------- |:-------------:| -----:|
-| 1. Person     | du            | ihr   |
-| 2. Person     | Sie           | Sie   |
-| 2. Person     | centered      |   $12 |
-| 3. Person     | are neat      |    $1 |
+| 1. Person     | ich           | wir   |
+| 2. Person     | du            | ihr   |
+|               | Sie           | Sie   |
+| 3. Person     | er (maskulin) | sie   |
+
 
 
 

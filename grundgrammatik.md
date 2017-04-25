@@ -12,7 +12,7 @@
 # Konjugation Präsens I
 
 |               | Singular       | Plural             |
-| ------------- |:--------------:| :-----------------:|
+| ------------- |:---------------| :------------------|
 | 1. Person     | ich geh-**e**  | wir geh-**en**     |
 | 2. Person     | du geh-**st**  | ihr ihr geh-**t**  |
 |               | Sie geh-**en** | Sie Sie geh-**en** |

@@ -1,4 +1,4 @@
-# Personalpronomen I (Nominative)
+# Personalpronomen (Nominative)
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|

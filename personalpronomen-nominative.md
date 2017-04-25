@@ -1,7 +1,7 @@
 # Personalpronomen (Nominative)
 
 |               | Singula       | Plural|
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :----:|
 | 1. Person     | ich           | wir   |
 | 2. Person     | du            | ihr   |
 |               | Sie           | Sie   |

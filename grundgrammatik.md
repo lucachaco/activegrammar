@@ -6,8 +6,8 @@
 | 2. Person     | du                    | ihr   |
 |               | Sie(Höflichkeitsform) | Sie   |
 | 3. Person     | er (maskulin)         | sie   |
-|               | sie (feminin)         | sie   |
-|               | es (neutrum)          | sie   |
+|               | sie (feminin)         |       |
+|               | es (neutrum)          |       |
 
 # Konjugation Präsens I
 

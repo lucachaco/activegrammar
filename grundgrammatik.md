@@ -14,9 +14,9 @@
 |               | Singular       | Plural             |
 | ------------- |:---------------| :------------------|
 | 1. Person     | ich geh-**e**  | wir geh-**en**     |
-| 2. Person     | du geh-**st**  | ihr ihr geh-**t**  |
-|               | Sie geh-**en** | Sie Sie geh-**en** |
-| 3. Person     | er geh-**t**   | sie sie geh-**en** |
+| 2. Person     | du geh-**st**  | ihr geh-**t**      |
+|               | Sie geh-**en** | Sie geh-**en**     |
+| 3. Person     | er geh-**t**   | sie geh-**en** |
 |               | sie geh-**t**  |                    |
 |               | es geh-**t**   |                    |
 

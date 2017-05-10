@@ -24,47 +24,47 @@
 
 
 ## Top 100
-| Verbs                                |
-| ------------------------------------ |
-| haben to have                        | das Jahr, -e
-| werden to become                     | das, Mal, -e
-| können can, to be able to            | das Beispiel, -e
-| müssen must, to have to              | die Zeit
-| sagen to say                         | die Frau, -en
-| machen to do, make                   | der Mensch, -en
-| geben to give                        | das Kind
-| kommen to come                       | der Tag, -e
-| sollen should, ought to              | der Mann, ¨er
-| wollen to want                       | das Land, ¨er
-| gehen to go                          | die Frage, -n
-| wissen to know                       | das Haus, ¨er
-| sehen to see                         | der Fall, ¨e
-| lassen to let, allow, have done      | die Leute
-| stehen to stand                      | die Arbeit, -en
-| finden to find                       | das Prozent, -e
-| bleiben to stay, remain              | die Hand, ¨e
-| liegen to lie, be lying              | die Stadt, ¨e
-| heißen to be called                  | der Herr, -en
-| denken to think                      | der/das Teil, -e
-| nehmen to take                       | das Problem, -e
-| tun to do                            | die Welt, -en
-| dürfen may, to be allowed            | das Recht, -e
-| glauben to believe                   | das Ende, -n
-| halten to stop, hold                 | die Million, -en
-| nennen to name, to call (a name)     | die Schule, -n
-| mögen to like                        | die Woche, -n
-| zeigen to show                       | der Vater, ¨
-| führen to lead                       | die Seite, -n
-| sprechen to speak                    | das Leben, -
-| bringen to bring, take               | die Mutter, ¨
-| leben to live                        | der Grund, ¨e
-| fahren to drive, ride, go            | das Auge, -n
-| meinen to think, have an opinion     | das Wort, ¨er
-| fragen to ask                        | das Geld
-| kennen to know                       | die Sache, -n
-| gelten to be valid                   | die Art
-| stellen to place, set                | der Bereich, -e
-| spielen to play                      | der Weg, -e
+| Verbs                                |                           |
+| ------------------------------------ |----------------------------
+| haben to have                        | das Jahr, -e              |
+| werden to become                     | das, Mal, -e              |
+| können can, to be able to            | das Beispiel, -e          |
+| müssen must, to have to              | die Zeit                  | 
+| sagen to say                         | die Frau, -en             |
+| machen to do, make                   | der Mensch, -en           |
+| geben to give                        | das Kind                  |
+| kommen to come                       | der Tag, -e               |
+| sollen should, ought to              | der Mann, ¨er             |
+| wollen to want                       | das Land, ¨er             |
+| gehen to go                          | die Frage, -n             |
+| wissen to know                       | das Haus, ¨er             |
+| sehen to see                         | der Fall, ¨e              |
+| lassen to let, allow, have done      | die Leute                 |
+| stehen to stand                      | die Arbeit, -en           |
+| finden to find                       | das Prozent, -e           |
+| bleiben to stay, remain              | die Hand, ¨e              |
+| liegen to lie, be lying              | die Stadt, ¨e             |
+| heißen to be called                  | der Herr, -en             |
+| denken to think                      | der/das Teil, -e          |
+| nehmen to take                       | das Problem, -e           |
+| tun to do                            | die Welt, -en             |
+| dürfen may, to be allowed            | das Recht, -e             |
+| glauben to believe                   | das Ende, -n              |
+| halten to stop, hold                 | die Million, -en          |
+| nennen to name, to call (a name)     | die Schule, -n            |
+| mögen to like                        | die Woche, -n             |
+| zeigen to show                       | der Vater, ¨              | 
+| führen to lead                       | die Seite, -n             |
+| sprechen to speak                    | das Leben, -              |
+| bringen to bring, take               | die Mutter, ¨             |
+| leben to live                        | der Grund, ¨e             |
+| fahren to drive, ride, go            | das Auge, -n              |
+| meinen to think, have an opinion     | das Wort, ¨er             |
+| fragen to ask                        | das Geld                  |
+| kennen to know                       | die Sache, -n             |
+| gelten to be valid                   | die Art                   |
+| stellen to place, set                | der Bereich, -e            |
+| spielen to play                      | der Weg, -e\
 | arbeiten to work                     | die Stunde, -n
 | brauchen to need                     | der Name, -n
 | folgen to follow                     | die Geschichte, -n

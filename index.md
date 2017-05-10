@@ -88,6 +88,36 @@
 | gehören to belong                    | der Sinn, `-`e            |
 | entstehen to originate, develop      | der Staat, `-`en          |
 | erhalten to receive                  | das Ziel, `-`e            |
+| treffen to meet                      | der Freunde, `-`e         |
+| suchen to search, look for           | die Freundin, `-`nen      |
+| legen to lay, put                    | das Thema, `-`en          |
+| vor·stellen to introduce, imagine    | die Person, `-`en         |
+| handeln to deal, trade               | der Euro                  |
+| erreichen to achieve, reach          | die Nacht, ¨e             |
+| tragen to carry, wear                | das Ding, `-`e            |
+| schaffen to manage, create           | der Raum, ¨e              |
+| lesen to read                        | der Blick, `-`e           |
+| verlieren to lose                    | der Platz, ¨e             |
+| dar·stellen to depict, portray       | die Zahl, `-`en           |
+| erkennen to recognize, admit         | der System, `-`e          |
+| entwickeln to develop                | die Uhr, `-`en            |
+| reden to talk                        | das Elter, `-`n           |
+| aus·sehen to appear                  | die Straße, `-`n          |
+| erscheinen to appear                 | die Minute, `-`n          |
+| bilden to form, educate              | die Gruppe, `-`n          |
+| an·fangen to begin                   | der Wert, `-`e            | 
+| erwarten to expect                   | das Gesicht, `-`er        |
+| wohnen to live                       | die Sprache, `-`n         |
+| betreffen to affect, concern         | der Anfang, ¨e            |
+| warten to wait                       | der Ort                   |
+| vergehen to elapse; to decay         | der Moment, `-`e          |
+| helfen to help                       | die Folge, `-`n           |
+| gewinnen to win                      | das Interesse, `-`n       |
+| schließen to close                   | die Milliarde, `-`n       |
+| fühlen to feel                       | die Rolle, `-`n           |
+| bieten to offer                      | die Tür, `-`en            |
+| interessierento interest             | der Schüler               |
+| erinnern to remember                 | die Bedeutung, `-`en      |
 
 
 

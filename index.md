@@ -26,12 +26,12 @@
 ## Top 100
 | Verbs                                |                           |
 | ------------------------------------ |---------------------------|
-| haben to have                        | das Jahr, -e              |
+| haben                                | das Jahr, -e              |
 | werden to become                     | das, Mal, -e              |
-| können can, to be able to            | das Beispiel, -e          |
-| müssen must, to have to              | die Zeit                  | 
-| sagen to say                         | die Frau, -en             |
-| machen to do, make                   | der Mensch, -en           |
+| können                               | das Beispiel, -e          |
+| müssen                               | die Zeit                  | 
+| sagen                                | die Frau, -en             |
+| machen                               | der Mensch, -en           |
 | geben to give                        | das Kind                  |
 | kommen to come                       | der Tag, -e               |
 | sollen should, ought to              | der Mann, ¨er             |

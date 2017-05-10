@@ -115,17 +115,17 @@
 | gewinnen                             | das Interesse, -n         |
 | schließen                            | die Milliarde, -n         |
 | fühlen                               | die Rolle, -n             |
-| bieten to offer                      | die Tür, -en              |
-| interessierento interest             | der Schüler               |
-| erinnern to remember                 | die Bedeutung, -en        |
-| ergeben to result in                 | der Text, -e              |
-| an·bieten to offer                   | das Ergebnis, -e          |
-| studieren to study                   | der Krieg, -e             |
-| verbinden to connect, link           | die Weise                 |
-| an·sehen to look at, watch           | die Regierung, -en        |
-| fehlen to lack, be missing, be absent| das Stück, -e             |
-| bedeuten to mean                     | die Wohnung, -en          |
-| vergleichen to compare               | das Gespräch              | 
+| bieten                               | die Tür, -en              |
+| interessierento                      | der Schüler               |
+| erinnern                             | die Bedeutung, -en        |
+| ergeben                              | der Text, -e              |
+| an·bieten                            | das Ergebnis, -e          |
+| studieren                            | der Krieg, -e             |
+| verbinden                            | die Weise                 |
+| an·sehen                             | die Regierung, -en        |
+| fehlen                               | das Stück, -e             |
+| bedeuten                             | die Wohnung, -en          |
+| vergleichen                          | das Gespräch              | 
 
 
 

@@ -27,14 +27,14 @@
 
 | Verbs                                |                           |
 | :----------------------------------- |:--------------------------|
-| haben                                | das Jahr, `-`e            |
-| werden to become                     | das, Mal, `-`e            |
-| können                               | das Beispiel, `-`e        |
+| haben                                | das Jahr, -e              |
+| werden to become                     | das, Mal, -e              |
+| können                               | das Beispiel, -e          |
 | müssen                               | die Zeit                  | 
-| sagen                                | die Frau, `-`en           |
-| machen                               | der Mensch, `-`en         |
+| sagen                                | die Frau, -en             |
+| machen                               | der Mensch, -en           |
 | geben to give                        | das Kind                  |
-| kommen to come                       | der Tag, `-`e             |
+| kommen to come                       | der Tag, -e               |
 | sollen should, ought to              | der Mann, ¨er             |
 | wollen to want                       | das Land, ¨er             |
 | gehen to go                          | die Frage, `-`n           |

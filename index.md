@@ -24,6 +24,7 @@
 
 
 ## Top 100
+
 | Verbs                                |                           |
 | :----------------------------------- |:--------------------------|
 | haben                                | das Jahr, `-`e            |
@@ -125,3 +126,6 @@
 | fehlen to lack, be missing, be absent| das Stück, `-`e           |
 | bedeuten to mean                     | die Wohnung, `-`en        |
 | vergleichen to compare               | das Gespräch              | 
+
+
+

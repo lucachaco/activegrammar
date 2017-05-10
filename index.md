@@ -1,4 +1,5 @@
-# Personalpronomen I (Nominative)
+# Grammar 
+## Personalpronomen I (Nominative)
 
 |               | Singular              | Plural|
 | ------------- |:----------------------| :-----|
@@ -9,7 +10,7 @@
 |               | sie (feminin)         |       |
 |               | es (neutrum)          |       |
 
-# Konjugation Präsens I
+## Konjugation Präsens I
 
 |               | Singular       | Plural             |
 | ------------- |:---------------| :------------------|

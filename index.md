@@ -25,15 +25,15 @@
 ## Top 100
 | Verbs                                |
 | ------------------------------------ |:---------------| :------------------|
-| haben to have
-| werden to become
-| können can, to be able to
-| müssen must, to have to
-| sagen to say
-| machen to do, make
-| geben to give
-| kommen to come
-| sollen should, ought to
+| haben to have                        |
+| werden to become                     | 
+| können can, to be able to            |
+| müssen must, to have to              |
+| sagen to say                         |
+| machen to do, make                   |
+| geben to give                        |
+| kommen to come                       |
+| sollen should, ought to              |
 | wollen to want
 | gehen to go
 | wissen to know

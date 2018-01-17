@@ -3,6 +3,4 @@
 ## Profe:Betania Guedes
 
 ## Preposições
-![prepositions](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/prepositions.jpg"preposições")
-
-![Alt text](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/prepositions.jpg "Optional title")
+(See foto)

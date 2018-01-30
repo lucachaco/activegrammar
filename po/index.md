@@ -18,10 +18,9 @@
 
 ## Notes
 
-| Nota        |            |
+| Nota          |               |
 | ------------- |:-------------:|
-| A Gente      | ![A gente](a-gente.jpg "A gente")
- | 
+| A Gente       | ![(a-gente.jpg ) | 
 | col 2 is      | centered      |  
 | zebra stripes | are neat      |  
 

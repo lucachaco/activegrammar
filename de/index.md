@@ -47,8 +47,8 @@
 | das T-Shirt, -s
 | die Socke, -n
 | der Strumpf, Stümpfe
-| der Schuh
-| der Stiefel
+| der Schuh, -e
+| der Stiefel, -
 
 
 

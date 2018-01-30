@@ -18,11 +18,11 @@
 
 ## Notes
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Tables        | Are           |
+| ------------- |:-------------:|
 | A Gente      | ![A gente](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/a-gente.jpg "A gente")
- | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+ | 
+| col 2 is      | centered      |  
+| zebra stripes | are neat      |  
 
 ### 

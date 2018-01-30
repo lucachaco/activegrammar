@@ -4,4 +4,4 @@
 
 ## Preposições
 (See foto)
-![alt text](/po/prepositions.jpg"Logo Title Text 1")
+![alt text](po/prepositions.jpg"Logo Title Text 1")

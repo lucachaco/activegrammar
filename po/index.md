@@ -20,7 +20,7 @@
 
 | Nota          |               |
 | ------------- |:-------------:|
-| A Gente       | ![(a-gente.jpg ) | 
+| A Gente       | !(a-gente.jpg) | 
 | col 2 is      | centered      |  
 | zebra stripes | are neat      |  
 

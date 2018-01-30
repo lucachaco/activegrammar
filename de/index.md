@@ -27,6 +27,17 @@
 
 # A1.10 Kleidung und Mode
 
+## Wortschatz
+
+| Kleidung und Mode                   |
+| :-----------------------------------|
+| die Kleidung (singular)             |
+| die Mode, -n                        |
+| der Anzug, Anzüg                    |
+| das Hemd, -en
+| die Hose, -n
+| das Kleid, -er
+
 
 ## Top 100
 

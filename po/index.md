@@ -9,3 +9,8 @@
 ## Artigos Indefinidos
 
 ![Artigos Indefinidos](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/artigos-definidos.jpg "Artigos Indefinidos")
+
+## Verbos Regulares - Irregulares
+
+![Verbos](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/artigos-definidos.jpg "Verbos")
+

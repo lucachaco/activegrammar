@@ -18,7 +18,7 @@
 
 ## Notes
 
-| Tables        | Are           |
+| Nota        |            |
 | ------------- |:-------------:|
 | A Gente      | ![A gente](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/a-gente.jpg "A gente")
  | 

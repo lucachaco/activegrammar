@@ -20,7 +20,7 @@
 
 | Nota          |               |
 | ------------- |:-------------:|
-| A Gente       | ![A gente](a-gente.jpg =250) | 
+| A Gente       | ![A gente](a-gente.jpg | width=100) | 
 | Diacritics    | ![Diacritics](diacritics.jpg =250)    |  
 
 

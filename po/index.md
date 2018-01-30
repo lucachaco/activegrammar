@@ -12,5 +12,5 @@
 
 ## Verbos Regulares - Irregulares
 
-![Verbos](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/artigos-definidos.jpg "Verbos")
+![Verbos](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/verbos-regulares-irregulares.jpg "Verbos")
 

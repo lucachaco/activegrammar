@@ -37,6 +37,19 @@
 | das Hemd, -en
 | die Hose, -n
 | das Kleid, -er
+| die Jeans, -
+| die Jacke, -n
+| der Mantel, Mäntel
+| der Pullover, -
+| der Rock, Röcke
+| die Bluse, -n
+| das Sweatshirt, -s
+| das T-Shirt, -s
+| die Socke, -n
+| der Strumpf, Stümpfe
+| der Schuh
+| der Stiefel
+
 
 
 ## Top 100

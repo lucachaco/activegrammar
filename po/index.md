@@ -19,8 +19,8 @@
 ## Notes
 
 | Nota          |               |
-| ------------- |:-------------:|
-| A Gente       | ![A gente](a-gente.jpg ) | 
+| ------------- |:--------------------------:|
+| A Gente       | ![A gente](a-gente.jpg )        | 
 | Diacritics    | ![Diacritics](diacritics.jpg)    |  
 
 

@@ -20,7 +20,7 @@
 
 | Nota        |            |
 | ------------- |:-------------:|
-| A Gente      | ![A gente](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/a-gente.jpg "A gente")
+| A Gente      | ![A gente](a-gente.jpg "A gente")
  | 
 | col 2 is      | centered      |  
 | zebra stripes | are neat      |  

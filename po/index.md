@@ -8,11 +8,19 @@
 
 ## Artigos Indefinidos
 
-![Artigos Indefinidos](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/artigos-definidos.jpg "Artigos Indefinidos")
+![Artigos Indefinidos](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/artigos-indefinidos.jpg "Artigos Indefinidos")
 
 ## Verbos Regulares - Irregulares
 
 ![Verbos](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/verbos-regulares-irregulares.jpg "Verbos")
+
+## A cidade
+
+![a cidade](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/a-cidade.jpg "a cidade")
+
+## Pronomes Possessivos
+
+![pronomes-possessivos.jpg](https://raw.githubusercontent.com/lucachaco/activegrammar/gh-pages/po/pronomes-possessivos.jpg "pronomes-possessivos.jpg")
 
 
 

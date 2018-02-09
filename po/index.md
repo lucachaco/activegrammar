@@ -26,10 +26,10 @@
 
 ## Notes
 
-| Nota          |               |
-| ------------- |:--------------------------:|
-| A Gente       | ![A gente](a-gente.jpg )        | 
-
+| Nota          |                                       |
+| ------------- |:-------------------------------------:|
+| A Gente       | ![A gente](a-gente.jpg )              | 
+| De tarde      | ![De tarde](de-tarde-de-noite.jpg )   | 
 
 
 ### 

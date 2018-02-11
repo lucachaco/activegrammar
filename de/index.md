@@ -52,6 +52,26 @@
 
 
 
+# A1.10 Gesund und munter
+
+## Wortschatz
+
+| der Körper                          |
+| :-----------------------------------|
+| der Kopf                            |
+| der Hals                            |
+| der Bauch                           |    
+
+
+
+
+
+
+
+
+
+
+
 ## Top 100
 
 | Verben                               | Substantiv                |

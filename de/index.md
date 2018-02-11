@@ -70,6 +70,12 @@
 | die Hand
 | der Finger
 | der Fuß
+| Im Fitness-Studio
+| :----------------------------------|
+| das Handtuch                       |
+| die Seife
+| die Creme
+| das Duschgel
 
 
 | (Frases)                            |

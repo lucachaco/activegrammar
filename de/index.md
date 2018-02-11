@@ -70,7 +70,7 @@
 | die Hand
 | der Finger
 | der Fuß
-| *Im Fitness-Studio*
+| **Im Fitness-Studio**
 | das Handtuch                       |
 | die Seife
 | die Creme

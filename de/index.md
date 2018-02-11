@@ -52,7 +52,7 @@
 
 
 
-# A1.10 Gesund und munter
+# A1.11 Gesund und munter
 
 ## Wortschatz
 
@@ -60,8 +60,16 @@
 | :-----------------------------------|
 | der Kopf                            |
 | der Hals                            |
-| der Bauch                           |    
-
+| der Bauch                           |  
+| das Knie
+| das Bein
+| der Rücken
+| das Herz
+| der Arm
+| der Ellbogen
+| die Hand
+| der Finger
+| der Fuß
 
 
 

@@ -70,12 +70,15 @@
 | die Hand
 | der Finger
 | der Fuß
-| Im Fitness-Studio
-| :----------------------------------|
+| *Im Fitness-Studio*
 | das Handtuch                       |
 | die Seife
 | die Creme
 | das Duschgel
+| das Shampoo
+| die Bürste
+| der Föhn 
+| der Kamm
 
 
 | (Frases)                            |

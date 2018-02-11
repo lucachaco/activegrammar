@@ -72,12 +72,13 @@
 | der Fuß
 
 
-
-| der Körper                          |
+| (Frases)                            |
 | :-----------------------------------|
-| der Kopf                            |
-| der Hals                            |
-
+| die Arme ausstreken                 |
+| den Rücken gerade halten            |
+| ein Knie hochziehen                 |  
+| auf einem Bein stehen               |
+| den Bauch anspannen                 |
 
 
 
